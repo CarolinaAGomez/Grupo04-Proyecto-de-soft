@@ -189,6 +189,114 @@ export const products = [
         
     },
     {
+        "id" : "Hamburguesa McDuo",
+        "nombre" : "McDuo",
+        "ingredientes" : "Hamburguesa con doble carne 100% vacuna con queso cheddar, cebolla, mostaza y ketchup",
+        "descripción" : "Una hamburguesa exquisita compuesta de dos carnes 100% vacuna, acompañadas del clásico pan, mostaza, kétchup, queso derretido, y un toque de cebolla que la hace única.",
+        "calorias" : "389 Kcal",
+        "precio" : "$550"
+        
+    },
+    {
+        "id" : "",
+        "nombre" : "",
+        "ingredientes" : "",
+        "descripción" : "",
+        "calorias" : "",
+        "precio" : "$ "
+        
+    },
+    {
+        "id" : "",
+        "nombre" : "",
+        "ingredientes" : "",
+        "descripción" : "",
+        "calorias" : "",
+        "precio" : "$ "
+        
+    },
+    {
+        "id" : "",
+        "nombre" : "",
+        "ingredientes" : "",
+        "descripción" : "",
+        "calorias" : "",
+        "precio" : "$ "
+        
+    },
+    {
+        "id" : "",
+        "nombre" : "",
+        "ingredientes" : "",
+        "descripción" : "",
+        "calorias" : "",
+        "precio" : "$ "
+        
+    },
+    {
+        "id" : "",
+        "nombre" : "",
+        "ingredientes" : "",
+        "descripción" : "",
+        "calorias" : "",
+        "precio" : "$ "
+        
+    },
+    {
+        "id" : "",
+        "nombre" : "",
+        "ingredientes" : "",
+        "descripción" : "",
+        "calorias" : "",
+        "precio" : "$ "
+        
+    },
+    {
+        "id" : "",
+        "nombre" : "",
+        "ingredientes" : "",
+        "descripción" : "",
+        "calorias" : "",
+        "precio" : "$ "
+        
+    },
+    {
+        "id" : "",
+        "nombre" : "",
+        "ingredientes" : "",
+        "descripción" : "",
+        "calorias" : "",
+        "precio" : "$ "
+        
+    },
+    {
+        "id" : "",
+        "nombre" : "",
+        "ingredientes" : "",
+        "descripción" : "",
+        "calorias" : "",
+        "precio" : "$ "
+        
+    },
+    {
+        "id" : "",
+        "nombre" : "",
+        "ingredientes" : "",
+        "descripción" : "",
+        "calorias" : "",
+        "precio" : "$ "
+        
+    },
+    {
+        "id" : "",
+        "nombre" : "",
+        "ingredientes" : "",
+        "descripción" : "",
+        "calorias" : "",
+        "precio" : "$ "
+        
+    },
+    {
         "id" : "",
         "nombre" : "",
         "ingredientes" : "",
