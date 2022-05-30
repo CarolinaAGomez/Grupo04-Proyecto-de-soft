@@ -194,115 +194,169 @@ export const products = [
         "ingredientes" : "Hamburguesa con doble carne 100% vacuna con queso cheddar, cebolla, mostaza y ketchup",
         "descripción" : "Una hamburguesa exquisita compuesta de dos carnes 100% vacuna, acompañadas del clásico pan, mostaza, kétchup, queso derretido, y un toque de cebolla que la hace única.",
         "calorias" : "389 Kcal",
-        "precio" : "$550"
+        "precio" : "$650"
         
     },
     {
-        "id" : "",
-        "nombre" : "",
-        "ingredientes" : "",
-        "descripción" : "",
-        "calorias" : "",
-        "precio" : "$ "
+        "id" : "Hamburguesa McFiesta Jr",
+        "nombre" : "McFiesta Jr",
+        "ingredientes" : "Carne 100% vacuna, con mayonesa, lechuga y tomate",
+        "descripción" : "Hamburguesa elaborada con carne 100% de carne vacuna, mayonesa, lechuga y tomate",
+        "calorias" : "229 Kcal",
+        "precio" : "$470 "
         
     },
     {
-        "id" : "",
-        "nombre" : "",
-        "ingredientes" : "",
-        "descripción" : "",
-        "calorias" : "",
-        "precio" : "$ "
+        "id" : "Hamburguesa McFiesta",
+        "nombre" : "McFiesta",
+        "ingredientes" : "Carne 100% vacuna, con mayonesa, lechuga y tomate",
+        "descripción" : "Hamburguesa elaborada con carne 100% de carne vacuna, mayonesa, lechuga y tomate",
+        "calorias" : "421 Kcal",
+        "precio" : "$620 "
         
     },
     {
-        "id" : "",
-        "nombre" : "",
-        "ingredientes" : "",
-        "descripción" : "",
-        "calorias" : "",
-        "precio" : "$ "
+        "id" : "Postre McFlurry Oreo",
+        "nombre" : "McFlurry Oreo",
+        "ingredientes" : "Helado vainilla, galletitas Oreo, salsa de chocolate",
+        "descripción" : "Un helado de vainilla que se banca compartir el protagonismo con trocitos de deliciosas galletitas Oreo y la salsa que elijas. Amalo hasta el final.",
+        "calorias" : "424 Kcal",
+        "precio" : "$450 "
         
     },
     {
-        "id" : "",
-        "nombre" : "",
-        "ingredientes" : "",
-        "descripción" : "",
-        "calorias" : "",
-        "precio" : "$ "
+        "id" : "Postre McFlurry Crocantella",
+        "nombre" : "McFlurry Crocantella",
+        "ingredientes" : "Helado vainilla, galletitas Oreo, salsa de chocoavellanas",
+        "descripción" : "Helado de vainilla con trocitos de deliciosas galletitas Óreo, salsa de Chocoavellanas que al contacto con tu postre se transforma en un placer crocante",
+        "calorias" : "610 Kcal",
+        "precio" : "$450 "
         
     },
     {
-        "id" : "",
-        "nombre" : "",
-        "ingredientes" : "",
-        "descripción" : "",
-        "calorias" : "",
-        "precio" : "$ "
+        "id" : "Postre McFlurry KitKat",
+        "nombre" : "McFlurry KitKat",
+        "ingredientes" : "Helado vainilla, trozos de KitKat, salsa de chocolate",
+        "descripción" : "La crocante oblea de chocolate que todo el mundo conoce y ama, pero acompañada de un cremoso helado de vainilla y una deliciosa salsa tibia de chocolate. ¿Hace falta que te diga más? El break helado que esperabas.",
+        "calorias" : "455 Kcal",
+        "precio" : "$450 "
         
     },
     {
-        "id" : "",
-        "nombre" : "",
-        "ingredientes" : "",
-        "descripción" : "",
-        "calorias" : "",
-        "precio" : "$ "
+        "id" : "Hamburguesa McNifica",
+        "nombre" : "McNifica",
+        "ingredientes" : "Carne 100% vacuna, queso cheddar, tomate, lechuga y cebolla, acompañados de kétchup, mostaza y mayonesa",
+        "descripción" : "En un mundo donde todos buscan lo nuevo todo el tiempo, la McNífica viene a rectificar lo bueno de ser clásico. Carne, queso cheddar, tomate, lechuga y cebolla, acompañados de kétchup, mostaza y mayonesa.",
+        "calorias" : "513 Kcal",
+        "precio" : "$650 "
         
     },
     {
-        "id" : "",
-        "nombre" : "",
-        "ingredientes" : "",
-        "descripción" : "",
-        "calorias" : "",
-        "precio" : "$ "
+        "id" : "Snack McNuggets",
+        "nombre" : "McNuggets 4 Unidades",
+        "ingredientes" : "Pollo, harina de maiz  y trigo",
+        "descripción" : "Ligero sabor a empanado de harina de maíz y trigo frito con notas caramelizadas. Suave sabor a pollo que es ligeramente salado con un toque de pimienta negra y apio en el empanado",
+        "calorias" : "117.12kcal",
+        "precio" : "$250 "
         
     },
     {
-        "id" : "",
-        "nombre" : "",
-        "ingredientes" : "",
-        "descripción" : "",
-        "calorias" : "",
-        "precio" : "$ "
+        "id" : "Batido Milshake Croccantella",
+        "nombre" : "Milshake Croccantella",
+        "ingredientes" : "Chocalte amargo, leche, agua, avellanas y chocolate cronccantella",
+        "descripción" : "Bebida frozen a base de leche y chocolate amargo con copos de maíz y pasta de avellanas, recubierta por finos hilos de chocolate Croccantella",
+        "calorias" : "388kcal",
+        "precio" : "$300 "
         
     },
     {
-        "id" : "",
-        "nombre" : "",
-        "ingredientes" : "",
-        "descripción" : "",
-        "calorias" : "",
-        "precio" : "$ "
+        "id" : "Cafe Ristretto",
+        "nombre" : "Ristretto",
+        "ingredientes" : "Cafe, agua",
+        "descripción" : "La mejor elección para disfrutar del sabor intenso del café.",
+        "calorias" : "2kcal",
+        "precio" : "$100 "
         
     },
     {
-        "id" : "",
-        "nombre" : "",
-        "ingredientes" : "",
-        "descripción" : "",
-        "calorias" : "",
-        "precio" : "$ "
+        "id" : "Postre Sundae chocolate",
+        "nombre" : "Sundae chocolate",
+        "ingredientes" : "Salsa de chocolate y helado de vainilla",
+        "descripción" : "La medida justa entre salsa de chocolate y helado de vainilla que pueden hacerte vivir una experiencia explosiva.",
+        "calorias" : "264kcal",
+        "precio" : "$ 220"
         
     },
     {
-        "id" : "",
-        "nombre" : "",
-        "ingredientes" : "",
-        "descripción" : "",
-        "calorias" : "",
-        "precio" : "$ "
+        "id" : "Postre Sundae Cronccatella",
+        "nombre" : "Sundae croccantella",
+        "ingredientes" : "Helado de vainilla y salsa de chocoavellanas",
+        "descripción" : "Helado de vainilla, salsa caliente y recubierto con salsa de Chocoavellanas que al contacto con tu postre se transforma en un placer crocante",
+        "calorias" : "399kcal",
+        "precio" : "$250 "
         
     },
     {
-        "id" : "",
-        "nombre" : "",
-        "ingredientes" : "",
-        "descripción" : "",
-        "calorias" : "",
-        "precio" : "$ "
+        "id" : "Postre Sundae Dulce de Leche",
+        "nombre" : "Sundae dulce de leche",
+        "ingredientes" : "Helado de vainilla y salsa de dulce de leche",
+        "descripción" : "El exquisito helado de vainilla que ya conoces y te encanta, pero bañado de una salsa de dulce de leche que te encantará aún más.",
+        "calorias" : "257kcal",
+        "precio" : "$220 "
+        
+    },
+    {
+        "id" : "Postre Sundae Frutilla",
+        "nombre" : "Sundae frutilla",
+        "ingredientes" : "Helado de vainilla y salsa de frutilla",
+        "descripción" : "El exquisito helado de vainilla que ya conoces y te encanta, pero bañado de una salsa de dulce de leche que te encantará aún más.",
+        "calorias" : "257 kcal",
+        "precio" : "$220 "
+        
+    },
+    {
+        "id" : "Super cono",
+        "nombre" : "Super cono",
+        "ingredientes" : "Helado McDonald's en sabor dulce de leche, vainilla o combinado, dentro del exquisito cono",
+        "descripción" : "Como el tradicional, pero con mas helado! Deliciosa mezcla de helado McDonald's en sabor dulce de leche, vainilla o combinado, dentro del exquisito cono de siempre.",
+        "calorias" : "385 kcal",
+        "precio" : "$ 200"
+        
+    },
+    {
+        "id" : "Te",
+        "nombre" : "te",
+        "ingredientes" : "Agua, te",
+        "descripción" : "Un clásico para tomar en cualquier momento del día. Una infusión de aromas únicos, con exquisito sabor que seguro te alegrará el día.",
+        "calorias" : "0 kcal",
+        "precio" : "$ 160 "
+        
+    },
+    {
+        "id" : "Hamburguesa triple hamburguesa con queso",
+        "nombre" : "Triple Hamburguesa con Queso",
+        "ingredientes" : "Tres medallones de carne 100% vacuna, queso derretido, mostaza, kétchup y cebolla triturada.",
+        "descripción" : "Tres medallones de carne 100% vacuna, queso derretido, mostaza, kétchup y cebolla triturada, es algo que nunca puede fallar.",
+        "calorias" : "605 Kcal",
+        "precio" : "$ 530 "
+        
+    },
+    {
+        "id" : "Hamburguesa triple mac",
+        "nombre" : "Triple Mac",
+        "ingredientes" : "tres carnes 100% vacuna, clásico pan McDonald’s, salsa especial, queso derretido, lechuga fresca, pepino crocante y el toque de cebolla.",
+        "descripción" : "Una hamburguesa que no es para cualquiera. Sólo los más extremos están dispuestos a saborear tres carnes 100% vacuna acompañadas del clásico pan McDonald’s, su característica salsa especial, queso derretido, lechuga fresca, pepino crocante y el toque de cebolla que la hace única.",
+        "calorias" : "541 kcal",
+        "precio" : "$ 600 "
+        
+    },
+    {
+        "id" : "Postre yogurkid",
+        "nombre" : "YogurKid",
+        "ingredientes" : "Yogur endulzado parcialmente descremado sabor a vainilla natural",
+        "descripción" : "Yogur endulzado parcialmente descremado sabor a vainilla natural",
+        "calorias" : "36 kcal",
+        "precio" : "$ 150"
         
     }
 ]
